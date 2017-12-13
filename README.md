@@ -5,6 +5,6 @@ What differentiates a trequartista from a left back? We believe that a player's 
 
 Further information about our analysis steps in correlation coefficient and K-Means clustering may be found in the poster below, or the final report in this repository.
 
-Data analysis for this project was done with Jupyter notebook, primarily leveraging the Pandas 
+Data analysis for this project was done on Jupyter notebook, leveraging the Pandas library for data manipulation and scikit-learn for data modelling.
 
-![alt text](https://github.com/csuksangium/EuropeanSoccerAnalysis/blob/master/ProjectPoster.png)
+![temp](https://github.com/csuksangium/EuropeanSoccerAnalysis/blob/master/ProjectPoster.png)
