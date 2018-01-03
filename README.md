@@ -6,6 +6,6 @@ Data analysis for this project was done on Jupyter notebook, leveraging the Pand
 
 This project uses European Soccer Player Dataset from Kaggle (https://www.kaggle.com/hugomathien/soccer)
 
-Further information about our analysis steps in correlation coefficient and K-Means clustering may be found in the poster below, or the final report in this repository.
+Further information about our analysis steps with correlation coefficient and K-Means clustering may be found in the poster below, or in the final report in this repository.
 
 ![temp](https://github.com/csuksangium/EuropeanSoccerAnalysis/blob/master/ProjectPoster.png)
